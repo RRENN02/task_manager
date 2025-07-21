@@ -16,6 +16,6 @@ A simple Python-based Task Manager with MySQL integration using OOP.
 
 ## 🔧 Setup
 1. Clone the repo
-2. Create the MySQL DB using `task_db_chema.sql`
+2. Create the MySQL DB using `task_db_schema.sql`
 3. Fill in your DB credentials in `database.py` or `config.ini`
 4. run app.py to run the task manager app. Enjoy!
