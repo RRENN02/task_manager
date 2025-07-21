@@ -14,7 +14,7 @@ A simple Python-based Task Manager with MySQL integration using OOP.
 - mysql-connector-python
 - configparser (if using config.ini)
 
-## 🔧 Setup
+## Setup
 1. Clone the repo
 2. Create the MySQL DB using `task_db_schema.sql`
 3. Fill in your DB credentials in `database.py` or `config.ini`
